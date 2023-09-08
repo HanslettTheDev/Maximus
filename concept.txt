@@ -1,0 +1,17 @@
+# first step  4 desktops created
+# name = Main desktop -> no apps
+
+# name = Ramims -> visual code[ramims folder], chrome(2 tabs), command prompt
+# settings: get window sizes, relaunch -> shutdown, sleep mode, logged off, signed out
+
+# window -> name -> = Game dev -> Godot, Chrome, Microsoft edge
+
+# window -> name -> NWBS updates -> Visual code(NWBS Desktop folder), chrome
+
+# STORAGE
+# 1. sqlite database -> ProgramData -> folder_name = Maximus ->  2 Database files[1. Main storage, 2. Backup]
+# 2. Json, Yaml -> 
+
+# PARADIGM
+# OOP
+# MakeMaximus -> create virtual desktops based on the config file       
