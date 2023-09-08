@@ -1,4 +1,4 @@
-### MAXIMUMS
+# MAXIMUS
 
 A command line process to create virtual desktops and set up your coding environments automatically. As a bonus, a command line task scheduler will be added to make your work lighter
 
